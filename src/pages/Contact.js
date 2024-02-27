@@ -1,4 +1,7 @@
 import React from 'react'
+import PlaceIcon from '@mui/icons-material/Place';
+import EmailIcon from '@mui/icons-material/Email';
+import CallIcon from '@mui/icons-material/Call';
 
 const Contact = () => {
   return (
@@ -10,21 +13,21 @@ const Contact = () => {
             <div class="row" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-6">
                     <div class="info-box mb-4">
-                    <i class="bx bx-map"></i>
+                    <PlaceIcon fontSize='large' />
                     <h3>Our Address</h3>
                     <p>KLE’S R.L.SCIENCE INSTITUTE BACHELOR OF COMPUTER APPLICATION COLLEGE ROAD, BELAGAVI KARNATAKA - INDIA</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="info-box  mb-4">
-                    <i class="bx bx-envelope"></i>
+                    <EmailIcon fontSize='large' />
                     <h3>Email Us</h3>
                     <p>info@rlsbca.edu.in</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="info-box  mb-4">
-                    <i class="bx bx-phone-call"></i>
+                    <CallIcon fontSize='large' />
                     <h3>Call Us</h3>
                         <p>+91 831 2461928</p>
                         <p> 7899393919</p>

@@ -87,6 +87,9 @@ h6,
 #topbar .contact-info a {
   line-height: 0;
   color: #fff;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
   transition: 0.3s;
 }
 
@@ -97,7 +100,6 @@ h6,
 #topbar .contact-info i {
   color: #428bca;
   line-height: 0;
-  margin-right: 5px;
 }
 
 #topbar .contact-info .phone-icon {
