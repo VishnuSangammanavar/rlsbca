@@ -29,7 +29,7 @@ const Footer = () => {
                             <div class="col-lg-3 col-md-6 col-6 footer-links">
                                 <h4>KLE BCA</h4>
                                 <ul>
-                                    <li><Link to="/rlsbca/">Home</Link></li>
+                                    <li><Link to="/">Home</Link></li>
                                     <li><Link to="/about/kle-society">About KLE Society</Link></li>
                                     <li><Link to="/about/kle-bca">About KLE BCA</Link></li>
                                 </ul>
