@@ -41,7 +41,7 @@ const Header = () => {
         <div class="container-lg container-md container-sm container-fluid d-flex align-items-center">
             <div class="logo me-auto">
                 <a href="/">
-                    <img src="../img/header/logo-header1.jpg" alt="logo" className='img-fluid' />
+                    <img src="./img/header/logo-header1.jpg" alt="logo" className='img-fluid' />
                 </a>
             </div>
             <nav id="navbar" class="navbar">

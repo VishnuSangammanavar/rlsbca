@@ -41,34 +41,16 @@ const Placements = () => {
                                 <div className="carousel-container">
                                     <div className="row g-3">
                                         <div className="col-6">
-                                            <img src="../img/placements/deloitte.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/deloitte.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/cognizant.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/cognizant.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/infosys.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/infosys.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/tcs.webp" class="img-fluid" alt="" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item" data-bs-interval="2000">
-                                <div className="carousel-container">
-                                    <div className="row gy-3">
-                                        <div className="col-6">
-                                            <img src="../img/placements/cognizant.webp" class="img-fluid" alt="" />
-                                        </div>
-                                        <div className="col-6">
-                                            <img src="../img/placements/capgemini.webp" class="img-fluid" alt="" />
-                                        </div>
-                                        <div className="col-6">
-                                            <img src="../img/placements/wipro.webp" class="img-fluid" alt="" />
-                                        </div>
-                                        <div className="col-6">
-                                            <img src="../img/placements/tcs.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/tcs.webp" class="img-fluid" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -77,16 +59,34 @@ const Placements = () => {
                                 <div className="carousel-container">
                                     <div className="row gy-3">
                                         <div className="col-6">
-                                            <img src="../img/placements/infosys.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/cognizant.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/wipro.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/capgemini.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/deloitte.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/wipro.webp" class="img-fluid" alt="" />
                                         </div>
                                         <div className="col-6">
-                                            <img src="../img/placements/capgemini.webp" class="img-fluid" alt="" />
+                                            <img src="./img/placements/tcs.webp" class="img-fluid" alt="" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item" data-bs-interval="2000">
+                                <div className="carousel-container">
+                                    <div className="row gy-3">
+                                        <div className="col-6">
+                                            <img src="./img/placements/infosys.webp" class="img-fluid" alt="" />
+                                        </div>
+                                        <div className="col-6">
+                                            <img src="./img/placements/wipro.webp" class="img-fluid" alt="" />
+                                        </div>
+                                        <div className="col-6">
+                                            <img src="./img/placements/deloitte.webp" class="img-fluid" alt="" />
+                                        </div>
+                                        <div className="col-6">
+                                            <img src="./img/placements/capgemini.webp" class="img-fluid" alt="" />
                                         </div>
                                     </div>
                                 </div>

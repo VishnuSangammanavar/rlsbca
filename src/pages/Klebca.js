@@ -11,7 +11,7 @@ const Klebca = () => {
                 </div>
                 <div className="row gx-5">
                     <div className="col-lg-4 col-md-4 order-lg-2 order-1">
-                        <img src="../img/college_logo/RLSI_logo.png" alt="RLS" />
+                        <img src="./img/college_logo/RLSI_logo.png" alt="RLS" />
                     </div>
                     <div className="col-lg-8 col-md-8 order-lg-1 order-2">
                         <div className="content">

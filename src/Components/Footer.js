@@ -9,7 +9,7 @@ const Footer = () => {
                 <div class="row g-5">
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-info">
-                            <img src="../img/college_logo/RLSI_logo.png" alt="KLE BCA RLSI" width={"200px"} />
+                            <img src="./img/college_logo/RLSI_logo.png" alt="KLE BCA RLSI" width={"200px"} />
                             <p>KLE’S R.L.SCIENCE INSTITUTE BACHELOR OF COMPUTER APPLICATION COLLEGE ROAD, BELAGAVI KARNATAKA - INDIA</p>
                             <p className='mt-5'>
                                 <strong>Phone:</strong> +1 5589 55488 55<br />

@@ -10,7 +10,7 @@ const Events = () => {
             <div className="row g-5 my-3">
                 <div className="col-lg-4 col-md-4">
                     <div class="event-item">
-                        <img src="../img/about2.jpg" alt="" />
+                        <img src="./img/about2.jpg" alt="" />
                         <div className="content">
                             <p className='date'>Jan 02, 2024</p>
                             <p className='desc'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, similique.</p>
@@ -19,7 +19,7 @@ const Events = () => {
                 </div>
                 <div className="col-lg-4 col-md-4">
                     <div class="event-item">
-                        <img src="../img/about1.jpg" alt="" />
+                        <img src="./img/about1.jpg" alt="" />
                         <div className="content">
                             <p className='date'>Jan 02, 2024</p>
                             <p className='desc'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, similique.</p>
@@ -28,7 +28,7 @@ const Events = () => {
                 </div>
                 <div className="col-lg-4 col-md-4">
                     <div class="event-item">
-                        <img src="../img/about1.jpg" alt="" />
+                        <img src="./img/about1.jpg" alt="" />
                         <div className="content">
                             <p className='date'>Jan 02, 2024</p>
                             <p className='desc'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, similique.</p>
@@ -37,7 +37,7 @@ const Events = () => {
                 </div>
                 <div className="col-lg-4 col-md-4">
                     <div class="event-item">
-                        <img src="../img/about1.jpg" alt="" />
+                        <img src="./img/about1.jpg" alt="" />
                         <div className="content">
                             <p className='date'>Jan 02, 2024</p>
                             <p className='desc'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, similique.</p>
