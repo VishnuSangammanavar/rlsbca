@@ -9,7 +9,7 @@ const Carousel = () => {
             <button type="button" data-bs-target="#hero" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
         <div class="carousel-inner">
-            <div class="carousel-item active" data-bs-interval="5000" style={ {backgroundImage: "url('./img/banner/banner2.jpg')"} }>
+            <div class="carousel-item active" data-bs-interval="5000" style={ {backgroundImage: "url('../img/banner/banner2.jpg')"} }>
                 <div class="carousel-container">
                     <div class="carousel-content container d-flex flex-column justify-content-lg-center justify-content-end">
                         <h2 class="animate__animated animate__fadeInDown">Partner for your future of learning</h2>
@@ -21,7 +21,7 @@ const Carousel = () => {
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" data-bs-interval="5000" style={ {backgroundImage: "url('./img/banner/banner1.jpg')"} }>
+            <div class="carousel-item" data-bs-interval="5000" style={ {backgroundImage: "url('../img/banner/banner1.jpg')"} }>
                 <div class="carousel-container">
                     <div class="carousel-content container d-flex flex-column justify-content-lg-center justify-content-end">
                         <h2 class="animate__animated animate__fadeInDown">Take control of your future with <span>KLE Society's College of BCA RLSI, Belagavi</span></h2>
@@ -33,7 +33,7 @@ const Carousel = () => {
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" style={ {backgroundImage: "url('./img/banner/banner3.jpg')"} }>
+            <div class="carousel-item" style={ {backgroundImage: "url('../img/banner/banner3.jpg')"} }>
                 <div class="carousel-container">
                     <div class="carousel-content container d-flex flex-column justify-content-lg-center justify-content-end">
                         <h2 class="animate__animated animate__fadeInDown">Take control of your future with <span>KLE Society's College of BCA RLSI, Belagavi</span></h2>
