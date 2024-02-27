@@ -19,12 +19,12 @@ const Klesociety = () => {
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-4 order-lg-2 order-1">
-                    <img src="./img/college_logo/kle_logo.webp" alt="RLS" />
+                    <img src="../img/college_logo/kle_logo.webp" alt="RLS" />
                 </div>
             </div>
             <div className="row mt-5 gx-5">
                 <div className="col-lg-4 col-md-4 pt-5">
-                    <img src="./img/chairman.jpg" alt="Chaiman" />
+                    <img src="../img/chairman.jpg" alt="Chaiman" />
                 </div>
                 <div className="col-lg-8 col-md-8 pt-5">
                     <div className="title">
