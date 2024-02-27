@@ -53,38 +53,38 @@ const Layout = () => {
                         </li>
                         <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
-                                <Link to='/about/kle-society'>KLE Society</Link>
-                                <Link to='/about/kle-bca'>KLE BCA</Link>
+                                <Link to='/rlsbca/about/kle-society'>KLE Society</Link>
+                                <Link to='/rlsbca/about/kle-bca'>KLE BCA</Link>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="#"><span>Academics</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
                                 <Link to='#'>BCA Syllabus</Link>
-                                <Link to='/academics/specializations'>Specializations</Link>
-                                <Link to='/academics/academy-alliances'>Academy Alliances</Link>
+                                <Link to='/rlsbca/academics/specializations'>Specializations</Link>
+                                <Link to='/rlsbca/academics/academy-alliances'>Academy Alliances</Link>
                             </ul>
                         </li>
                         <li className='nav-item'>
                             <a href="#" className='nav-link'>Admission</a>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/placements' className='nav-link'>Placements</Link>
+                            <Link to='/rlsbca/placements' className='nav-link'>Placements</Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/faculty' className='nav-link'>Faculty</Link>
+                            <Link to='/rlsbca/faculty' className='nav-link'>Faculty</Link>
                         </li>
                         <li class="dropdown"><a href="#"><span>Happenings</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
-                                <Link to='happenings/news'>NEWS</Link>
-                                <Link to='happenings/events'>Events</Link>
-                                <Link to='happenings/workshops'>Workshops</Link>
+                                <Link to='/rlsbca/happenings/news'>NEWS</Link>
+                                <Link to='/rlsbca/happenings/events'>Events</Link>
+                                <Link to='/rlsbca/happenings/workshops'>Workshops</Link>
                             </ul>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/gallery' className='nav-link'>Gallery</Link>
+                            <Link to='/rlsbca/gallery' className='nav-link'>Gallery</Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/Contact' className='nav-link'>Contact</Link>
+                            <Link to='/rlsbca/contact' className='nav-link'>Contact</Link>
                         </li>
                         <div className="close-menu" onClick={() => setToggle(!toggle)}>
                             <CloseIcon className='mobile-nav-toggle' />

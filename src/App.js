@@ -25,19 +25,19 @@ function App() {
       <Routes>
         <Route path='/' element={<Layout />}>
           <Route exact path='/rlsbca/' element={<Home />} />
-          <Route exact path='/about' element={<About />} />
-          <Route exact path='/about/kle-society' element={<Klesociety />} />
-          <Route exact path='/about/kle-bca' element={<Klebca />} />
-          {/* <Route exact path='/academics/bca-syllabus' element={<Bcasyllabus />} /> */}
-          <Route exact path='/academics/specializations' element={<Specializations />} />
-          <Route exact path='/academics/academy-alliances' element={<Academyalliances />} />
-          <Route exact path='/placements' element={<Placements />} />
-          <Route exact path='/faculty' element={<Faculty />} />
-          <Route exact path='/happenings/news' element={<News />} />
-          <Route exact path='/happenings/events' element={<Events />} />
-          <Route exact path='/happenings/workshops' element={<Workshops />} />
-          <Route exact path='/gallery' element={<Gallery />} />
-          <Route exact path='/contact' element={<Contact />} />
+          <Route exact path='/rlsbca/about' element={<About />} />
+          <Route exact path='/rlsbca/about/kle-society' element={<Klesociety />} />
+          <Route exact path='/rlsbca/about/kle-bca' element={<Klebca />} />
+          {/* <Route exact path='/rlsbca/academics/bca-syllabus' element={<Bcasyllabus />} /> */}
+          <Route exact path='/rlsbca/academics/specializations' element={<Specializations />} />
+          <Route exact path='/rlsbca/academics/academy-alliances' element={<Academyalliances />} />
+          <Route exact path='/rlsbca/placements' element={<Placements />} />
+          <Route exact path='/rlsbca/faculty' element={<Faculty />} />
+          <Route exact path='/rlsbca/happenings/news' element={<News />} />
+          <Route exact path='/rlsbca/happenings/events' element={<Events />} />
+          <Route exact path='/rlsbca/happenings/workshops' element={<Workshops />} />
+          <Route exact path='/rlsbca/gallery' element={<Gallery />} />
+          <Route exact path='/rlsbca/contact' element={<Contact />} />
           <Route path='*' element={<Error />} />
         </Route>
       </Routes>
