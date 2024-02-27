@@ -23,8 +23,8 @@ function App() {
     <>
       <Topbar />
       <Routes>
-        <Route path='/' element={<Layout />}>
-          <Route exact path='rlsbca/' element={<Home />} />
+        <Route path='/rlsbca' element={<Layout />}>
+          <Route index element={<Home />} />
           <Route exact path='about' element={<About />} />
           <Route exact path='about/kle-society' element={<Klesociety />} />
           <Route exact path='about/kle-bca' element={<Klebca />} />
