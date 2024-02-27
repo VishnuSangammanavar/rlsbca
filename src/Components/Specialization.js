@@ -22,19 +22,19 @@ const Specialization = () => {
             <div class="row gy-4">
               <div class="col-xl-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="icon-box d-flex flex-column">
-                  <img src="../img/specialization/cloud-computing.jpg" alt="" class="img-fluid" />
+                  <img src="./img/specialization/cloud-computing.jpg" alt="" class="img-fluid" />
                   <h4>Cloud Computing</h4>
                 </div>
               </div>
               <div class="col-xl-4 col-md-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="icon-box d-flex flex-column">
-                  <img src="../img/specialization/data-science.jpg" alt="" class="img-fluid" />
+                  <img src="./img/specialization/data-science.jpg" alt="" class="img-fluid" />
                   <h4>Data Science with Python</h4>
                 </div>
               </div>
               <div class="col-xl-4 col-md-4" data-aos="fade-up" data-aos-delay="400">
                 <div class="icon-box d-flex flex-column">
-                  <img src="../img/specialization/web-development.png" alt="" class="img-fluid" />
+                  <img src="./img/specialization/web-development.png" alt="" class="img-fluid" />
                   <h4>Web Development</h4>
                 </div>
               </div>
