@@ -49,7 +49,7 @@ const Layout = () => {
                     {!toggle?<div className="navbar-overlay d-lg-none d-block"></div>:null}
                     <ul style={ {right: `${toggle? '-520px':'0'}`} }>
                         <li className='nav-item'>
-                            <Link to='/rlsbca' className='nav-link'>Home</Link>
+                            <Link to='/rlsbca/' className='nav-link'>Home</Link>
                         </li>
                         <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
                             <ul>
